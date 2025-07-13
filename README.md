@@ -85,6 +85,13 @@ Run notebook in Jupyter or Google Colab
 
 ✅ Map exported as clustered_map.html
 
+## 📍 Preview
+
+Here's a sample of the clustered bus stops map:
+
+![Clustered Map](notebooks/output/clustered_map.png)
+
+
 🙋‍♂️ Author
 Evans Kyalo Muendo
 Student | Software Engineer | AI Explorer
